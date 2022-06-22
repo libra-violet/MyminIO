@@ -40,6 +40,7 @@ require (
 	github.com/klauspost/pgzip v1.2.5
 	github.com/klauspost/readahead v1.4.0
 	github.com/klauspost/reedsolomon v1.9.15
+	github.com/libra-violet/lrc 
 	github.com/lib/pq v1.10.4
 	github.com/miekg/dns v1.1.46
 	github.com/minio/cli v1.22.0
