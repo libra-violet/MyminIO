@@ -1,4 +1,4 @@
-module github.com/minio/minio
+module github.com/libra-violet/MyminIO
 
 go 1.17
 
